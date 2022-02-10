@@ -1,4 +1,4 @@
-# Dio desafio git-github
+# Desafio git-github da DIO
 Repositório para apresentar conhecimentos e experiências sobre o versionamento de código. 
 
 ## Links úteis
